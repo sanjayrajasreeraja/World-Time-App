@@ -11,5 +11,5 @@ This is an app to display the time of every timezone of the world.
 
 1)Flutter and its pakages.
 
-2) World Time Api.
+2)World Time Api.
 
