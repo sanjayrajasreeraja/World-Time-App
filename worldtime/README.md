@@ -1,16 +1,15 @@
-# worldtime
+# World Time App
 
-A new Flutter project.
+This is an app to display the time of every timezone of the world.
 
-## Getting Started
+# The App:
 
-This project is a starting point for a Flutter application.
+![worldapp1](https://user-images.githubusercontent.com/69068704/167282256-5bf0bf52-9ab2-44c3-b109-5fe98cbb4bf5.png)
+![worldapp2](https://user-images.githubusercontent.com/69068704/167282258-88225c75-868f-4af4-917c-b70cd1855142.png)
 
-A few resources to get you started if this is your first Flutter project:
+# Tools Used:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1)Flutter and its pakages.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2) World Time Api.
+
